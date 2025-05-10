@@ -1,0 +1,162 @@
+[
+    {
+      "name": "Google Pixel 6 Pro",
+      "model": "Pixel 6 Pro",
+      "brand": "Google",
+      "storage": "128GB",
+      "ram": "12GB",
+      "display": "6.7-inch LTPO OLED",
+      "camera": {
+        "main": "50MP",
+        "ultrawide": "12MP",
+        "telephoto": "48MP"
+      },
+      "battery": "5003 mAh",
+      "operating_system": "Android 12",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 3.41.32 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.53.23 PM.png"
+      ]
+    },
+    {
+      "name": "Apple iPhone 12 Mini, 256GB, Blue",
+      "model": "iPhone 12 Mini",
+      "brand": "Apple",
+      "storage": "256GB",
+      "ram": "4GB",
+      "display": "5.4-inch Super Retina XDR OLED",
+      "camera": {
+        "main": "12MP Wide",
+        "ultrawide": "12MP Ultra Wide"
+      },
+      "battery": "2227 mAh",
+      "operating_system": "iOS 14",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 3.55.15 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.55.28 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.55.36 PM.png"
+      ]
+    },
+    {
+      "name": "Apple iPhone 12 Pro Max",
+      "model": "iPhone 12 Pro Max",
+      "brand": "Apple",
+      "storage": "128GB",
+      "ram": "6GB",
+      "display": "6.7-inch Super Retina XDR OLED",
+      "camera": {
+        "main": "12MP Wide",
+        "ultrawide": "12MP Ultra Wide",
+        "telephoto": "12MP Telephoto"
+      },
+      "battery": "3687 mAh",
+      "operating_system": "iOS 14",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 3.55.15 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.55.28 PM.png"
+      ]
+    },
+    {
+      "name": "Apple iPhone 11, 64GB",
+      "model": "iPhone 11",
+      "brand": "Apple",
+      "storage": "64GB",
+      "ram": "4GB",
+      "display": "6.1-inch Liquid Retina IPS LCD",
+      "camera": {
+        "main": "12MP Wide",
+        "ultrawide": "12MP Ultra Wide"
+      },
+      "battery": "3110 mAh",
+      "operating_system": "iOS 13",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.01.52 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 4.01.52 PM.png"
+      ]
+    },
+    {
+      "name": "Samsung Galaxy Z Fold2",
+      "model": "Galaxy Z Fold2",
+      "brand": "Samsung",
+      "storage": "256GB",
+      "ram": "12GB",
+      "display": "7.6-inch Foldable Dynamic AMOLED 2X",
+      "camera": {
+        "main": "12MP Wide",
+        "ultrawide": "12MP Ultrawide",
+        "telephoto": "12MP Telephoto"
+      },
+      "battery": "4500 mAh",
+      "operating_system": "Android 10",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.01.52 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 4.07.41 PM.png"
+      ]
+    },
+    {
+      "name": "Apple AirPods",
+      "category": "Audio",
+      "type": "Wireless Earbuds",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.04.31 PM.png"
+      ]
+    },
+    {
+      "name": "Apple MacBook Pro 16",
+      "category": "Laptop",
+      "processor": "Apple M1 Pro or M1 Max",
+      "display": "16.2-inch Liquid Retina XDR",
+      "storage": "512GB - 8TB SSD",
+      "ram": "16GB - 64GB",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 3.41.32 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.53.23 PM.png",
+        "assets/images/Screenshot 2025-04-16 at 3.41.32 PM.png"
+      ]
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "category": "Wearable",
+      "display": "Always-On Retina LTPO OLED display",
+      "features": [
+        "Blood Oxygen sensor",
+        "ECG app",
+        "Temperature sensing"
+      ],
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.06.49 PM.png"
+      ]
+    },
+    {
+      "name": "Beats Studio3 Wireless",
+      "category": "Audio",
+      "type": "Over-Ear Headphones",
+      "features": [
+        "Pure Adaptive Noise Cancelling (Pure ANC)",
+        "Apple W1 chip"
+      ],
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.04.31 PM.png"
+      ]
+    },
+    {
+      "name": "Apple iPad Mini 5th Gen",
+      "category": "Tablet",
+      "display": "7.9-inch Retina IPS display",
+      "processor": "A12 Bionic chip",
+      "storage": "64GB or 256GB",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.07.41 PM.png"
+      ]
+    },
+    {
+      "name": "Apple iPad Air",
+      "category": "Tablet",
+      "display": "10.9-inch Liquid Retina IPS display",
+      "processor": "Apple M1 chip",
+      "storage": "64GB or 256GB",
+      "images": [
+        "assets/images/Screenshot 2025-04-16 at 4.07.41 PM.png"
+      ]
+    }
+  ]
